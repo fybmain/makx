@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Clang(Latest, Linux)",
+        "compilers": {
+            "C": "clang",
+            "CXX": "clang++"
+        }
+    }
+]

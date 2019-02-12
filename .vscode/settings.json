@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": true,
+    "clang.cflags": [
+        "-std=gnu11"
+    ],
+    "clang.cxxflags": [
+        "-std=gnu++17"
+    ]
+}
